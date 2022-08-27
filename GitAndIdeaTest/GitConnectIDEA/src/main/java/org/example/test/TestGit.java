@@ -8,5 +8,7 @@ public class TestGit {
         System.out.println("test分支中的文件内容");
 
         System.out.println("master分支");
+
+        System.out.println("test分支");
     }
 }
