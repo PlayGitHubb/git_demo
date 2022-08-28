@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("master分支");
 
         System.out.println("test分支");
+        System.out.println("push上传");
     }
 }
